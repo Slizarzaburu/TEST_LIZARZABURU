@@ -1,0 +1,9 @@
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\bin\Debug\netcoreapp3.1\ELAYER.deps.json
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\bin\Debug\netcoreapp3.1\ELAYER.dll
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\bin\Debug\netcoreapp3.1\ELAYER.pdb
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\obj\Debug\netcoreapp3.1\ELAYER.csprojAssemblyReference.cache
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\obj\Debug\netcoreapp3.1\ELAYER.csproj.CoreCompileInputs.cache
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\obj\Debug\netcoreapp3.1\ELAYER.AssemblyInfoInputs.cache
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\obj\Debug\netcoreapp3.1\ELAYER.AssemblyInfo.cs
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\obj\Debug\netcoreapp3.1\ELAYER.dll
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\ELAYER\obj\Debug\netcoreapp3.1\ELAYER.pdb

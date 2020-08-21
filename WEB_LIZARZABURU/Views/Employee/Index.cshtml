@@ -1,0 +1,83 @@
+﻿@model IEnumerable<WEB_LIZARZABURU.Models.Employee>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card card-outline-info">
+    <div class="card-header">
+        <h4 class="mb-0 text-white"></h4>
+    </div>
+    <div class="card-body">
+        <div class="row page-titles">
+            <div class="col-md-6 col-8 align-self-center">
+                <h3 class="text-themecolor mb-0 mt-0">MasGlobalTEST</h3>
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a>Employess</a></li>
+                    <li class="breadcrumb-item active">List</li>
+                </ol>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <div class="accordion" id="accordionTable">
+                    <div class="card m-b-5">
+                        <div id="col1" class="collapse show" aria-labelledby="heading1" data-parent="#accordionTable">
+                            <div class="card-body">
+                                <div class="table-responsive">
+                                    <table id="demo-foo-accordion" class="table table-bordered m-b-0 toggle-arrow-tiny table-hover" data-filtering="true" data-cascade="true" data-sorting="true" data-toggle-column="last" data-paging="true" data-paging-size="6">
+                                        <thead>
+                                            <tr class="footable-filtering">
+                                                <th data-toggle="true"> ID </th>
+                                                <th> First Name </th>
+                                                <th> Last Name </th>
+                                                <th> Identification </th>
+                                                <th> Phone Number </th>
+                                                <th> Occupation </th>
+                                                <th> Ver </th>
+                                                
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var item in Model)
+                                            {
+                                            <tr>
+                                                <td>@item.Id</td>
+                                                <td>@item.FirstName</td>
+                                                <td>@item.LastName</td>
+                                                <td>@item.Identification</td>
+                                                <td>@item.PhoneNumber</td>
+                                                <td>@item.Occupation</td>
+                                                <td>@Html.ActionLink("Ver", "InformationDetail", new { idEmployee = item.Id }, new { @class = "btn-sm btn-rounded btn-primary" })</td>
+                                            </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

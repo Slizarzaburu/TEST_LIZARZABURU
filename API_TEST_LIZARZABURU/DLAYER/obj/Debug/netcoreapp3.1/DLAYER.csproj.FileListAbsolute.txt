@@ -1,0 +1,16 @@
+C:\Users\skynet\source\repos\API_TEST_LIZARZABURU\DLAYER\bin\Debug\netcoreapp3.1\ELAYER.dll
+C:\Users\skynet\source\repos\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.csprojAssemblyReference.cache
+C:\Users\skynet\source\repos\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.AssemblyInfoInputs.cache
+C:\Users\skynet\source\repos\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.AssemblyInfo.cs
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\bin\Debug\netcoreapp3.1\DLAYER.deps.json
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\bin\Debug\netcoreapp3.1\DLAYER.dll
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\bin\Debug\netcoreapp3.1\DLAYER.pdb
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\bin\Debug\netcoreapp3.1\ELAYER.dll
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\bin\Debug\netcoreapp3.1\ELAYER.pdb
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.csprojAssemblyReference.cache
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.csproj.CoreCompileInputs.cache
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.AssemblyInfoInputs.cache
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.AssemblyInfo.cs
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.csproj.CopyComplete
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.dll
+C:\Users\skynet\Desktop\TEST_LIZARZABURU_STEVEN\API_TEST_LIZARZABURU\DLAYER\obj\Debug\netcoreapp3.1\DLAYER.pdb
